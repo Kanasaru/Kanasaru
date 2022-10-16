@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kanasaru
-- 👀 I’m interested in python and pygame
+- 👀 I’m interested in python and c
 - 🌱 I’m currently learning game development
 
 <!---
